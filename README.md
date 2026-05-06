@@ -4,6 +4,9 @@ This project is an autonomous maze-solving robot built using ESP32. The main ide
 
 This robot secured 1st place at Gujarat Robofest 5.0.
 
+Demo Video: Click here to watch
+https://drive.google.com/file/d/1Y3SoVk7yhP7JwMxXjzXYTzWj-ubeMt1x/view?usp=sharing
+
 Working:
 
 The robot follows a two-phase approach — exploration and optimized run.
